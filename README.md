@@ -6,7 +6,6 @@ The classic game of Rock-Paper-Scissors (RPS) is a simple yet engaging hand game
 
 The project utilizes Python, known for its simplicity and extensive libraries, making it ideal for rapid prototyping and clear, readable code. The primary goal is not just to build a working game, but to focus on the technical expectations laid out in the project guidelines, particularly proper architectural design, modular implementation, and robust error handling. This report details the design process, implementation, testing, and evaluation of the final product.
 
- 
 **Features:**
 Core Game Features
 Randomized Computer Choice: This is the central feature enabled by the random module, specifically using the random.choice() function.
