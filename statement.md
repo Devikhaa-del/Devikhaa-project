@@ -17,6 +17,7 @@ Providing clear feedback to the player after each round.
 Optionally supporting multiple rounds, scorekeeping, or replay functionality.
 
 **TARGET USERS:**
+
 Beginner programmers learning Python fundamentals.
 
 Students practicing conditional statements, loops, and functions.
@@ -28,7 +29,6 @@ Educators who need example projects for teaching programming.
 Developers looking for a base template to build more advanced versions (e.g., GUI, multiplayer, scoring systems).
 
 **HIGH LEVEL FEATURES:**
-4. High-Level Features
 
 The core features of the Rock–Paper–Scissors project include:
 
