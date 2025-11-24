@@ -4,7 +4,8 @@
 The classic game of Rock-Paper-Scissors (RPS) is a simple yet engaging hand game, often used as a fair method of decision-making between two people. This project aims to translate this universally recognized game into a robust, interactive, and modular Python application. The choice of RPS serves as an excellent foundation to implement and demonstrate core programming concepts such as modular design, object-oriented programming (OOP), input/output validation, and algorithmic logic for an AI opponent.  
 
 
-The project utilizes Python, known for its simplicity and extensive libraries, making it ideal for rapid prototyping and clear, readable code. The primary goal is not just to build a working game, but to focus on the technical expectations laid out in the project guidelines, particularly proper architectural design, modular implementation, and robust error handling. This report details the design process, implementation, testing, and evaluation of the final product
+The project utilizes Python, known for its simplicity and extensive libraries, making it ideal for rapid prototyping and clear, readable code. The primary goal is not just to build a working game, but to focus on the technical expectations laid out in the project guidelines, particularly proper architectural design, modular implementation, and robust error handling. This report details the design process, implementation, testing, and evaluation of the final product.
+
  
 **Features:**
 Core Game Features
@@ -33,8 +34,10 @@ Input Handling: Basic games often convert the user's input to lowercase (.lower(
 
 Simple Command Line Interface (CLI): The entire game typically runs in the terminal or command prompt, utilizing basic print() and input() functions for all interaction.
 
+
 **Technolgies/Tools Used:**
 Programming language - Python 3.14
 User Interface - Command Line Interface(CLI)
+
 
 **Steps to Install and Run the Project:**
